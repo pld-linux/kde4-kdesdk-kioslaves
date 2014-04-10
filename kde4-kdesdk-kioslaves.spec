@@ -15,12 +15,12 @@ Group:		X11/Libraries
 Summary:	KDESDK - kde-kio-slave
 Summary(pl.UTF-8):	KDESDK - kde-kio-slave
 Name:		kde4-kdesdk-kioslaves
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Libraries
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	70fe05630611f6367a059dfdec92f67e
+# Source0-md5:	47d765367021c7483da60d42f9f81452
 #Patch100: %{name}-branch.diff
 ##Patch0: %{name}-kiosvn.patch
 ##Patch1: %{name}-include.patch
