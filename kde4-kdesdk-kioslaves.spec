@@ -31,7 +31,7 @@ BuildRequires:	cmake >= 2.8.0
 BuildRequires:	db-devel
 BuildRequires:	docbook-dtd42-xml
 BuildRequires:	docbook-style-xsl
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	subversion-devel
 Requires:	kde4-kdelibs >= %{version}
 Provides:	kde-kio-slave = %{version}
